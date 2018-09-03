@@ -9,8 +9,8 @@ body {
 
 .kai{
   width:100%;
-  color:#F6G5J1;
-  position:absolute;
+  color:#ff00e1;
+  
 }
 
 	.tim{
@@ -23,21 +23,24 @@ body {
       color:#313131;
 
 
-      position: absolute;
-      -webkit-animation:colorchange 20s infinite alternate;
+
+      -webkit-animation:colorchange 5s infinite alternate;
       
       
     }
+.mats { 
+	color:#0735ef;
+}
 .robin{
 width:100%;
 color:yellow;
-positon:absolute;
+
 	
 }
 .niklas{
 	width:100%;
 	color:blue;
-	position:absolute;
+	
 }
 @-webkit-keyframes colorchange {
       0% {
